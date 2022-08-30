@@ -1,0 +1,20 @@
+a) green gradient - #1 #00888B
+		    #2 #005456
+[Majorly used over buttons and button]
+[gradeint style - linear left to right]
+
+b) Yellow - #1 #FCBE34
+[used over text on navbar]
+
+c) pale green - #E9F9F9
+[used for bg of testimony/  review division]
+
+d) pale blue - #CFF0F3
+[used for BG]
+
+____________________________________________________
+
+travel image from unsplash- https://unsplash.com/s/photos/bridge
+
+font Montserrat  - https://fonts.google.com/specimen/Montserrat?query=Montserrat [FOR HEADINGS]
+font roboto - https://fonts.google.com/specimen/Roboto?query=Roboto [FOR CONTENT LINES]
